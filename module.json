@@ -1,0 +1,20 @@
+{
+	"name": "dragonfiremaps",
+	"title": "Dragonfire Maps",
+	"description": "This module provides you with maps created by Dragonfire Creations, from patreon. https://www.patreon.com/DragonfireCreations",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.7.7",
+	"version": "1.0.0",
+	"author": "inSquared#4238",
+	"packs": [
+    	{
+      		"name": "dragonfiremaps",
+      		"label": "Dragonfire Maps",
+      		"path": "packs/dragonfire-maps.db",
+      		"entity": "Scene",
+      		"module": "dragonfiremaps"
+		}
+	],
+	"url": "https://www.patreon.com/DragonfireCreations",
+	"manifest": "https://www.patreon.com/DragonfireCreations"
+}

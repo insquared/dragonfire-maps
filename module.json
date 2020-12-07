@@ -16,6 +16,6 @@
 		}
 	],
 	"url": "https://www.patreon.com/DragonfireCreations",
-	"manifest": "https://raw.githubusercontent.com/insquared/dragonfire-maps/main/module.json?token=AR37OYEYRXAMIKHXCTKCXG27Z2XQI",
+	"manifest": "https://raw.githubusercontent.com/insquared/dragonfire-maps/main/module.json",
 	"download": "https://github.com/insquared/dragonfire-maps/archive/main.zip"
 }

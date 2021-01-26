@@ -4,8 +4,6 @@ These maps come with walls, lights, music, variants and more!
 
 ## MODULE REQUIREMENTS:
 * CommunityLighting by Blitz
-* Token Attacher
-* Trigger Happy
 * Multilevel Tokens
 
 

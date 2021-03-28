@@ -4,7 +4,7 @@
 	"description": "This module provides you with maps created by Dragonfire Creations, from patreon. https://www.patreon.com/DragonfireCreations",
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.9",
-	"version": "1.1.12",
+	"version": "1.1.13",
 	"author": "inSquared#4238",
 	"packs": [
     	{
